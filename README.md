@@ -16,3 +16,7 @@ python shape.py
 - cv2.fillPoly
 - cv2.fillConvexPoly
 - cv2.putText
+
+## More Discription
+
+・[Blog](https://atchicken.com/opencv_shape/)
